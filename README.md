@@ -95,7 +95,8 @@ public class Program : MonoBehaviour
 }
 ~~~
 ## Output:
-![](kp1.png)
-![](kp2.png)
+![image](https://github.com/Sarvesh993/RollaBall/assets/94881923/4c945b8a-ecf0-4ebc-a2b8-b2dab4f4e5a6)
+![image](https://github.com/Sarvesh993/RollaBall/assets/94881923/8706a163-3d93-477f-b607-ba6459cdac16)
+
 ## Result:
 Thus, The 3D application for Roll the Ball in unity is developed successfully.
